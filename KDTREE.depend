@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1478002249 source:d:\10_projects\kdtree\kdtree.cpp
+	<iostream>
+	<vector>
+	<string>
+	<stack>
+	<functional>
+	<algorithm>
+	<fstream>
+	<sstream>
+	<ctime>
+
